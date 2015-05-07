@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\skordiaczynski\documents\safari\build\safari\obj\arm\master\intermediatexaml\template.exe" HashGuid="02e63b22-6995-fe64-a660-e5c236ba1223" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\safari\assembly-csharp.dll" HashGuid="5f769cd4-6f9d-5593-3913-366c58721b9e" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\players\windowsphone81\arm\master\bridgeinterface.winmd" HashGuid="53294fea-fc75-44c8-e6c0-4f55735a7d0b" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\safari\unityengine.dll" HashGuid="5ac16355-8fa0-48e9-5bf5-c6e396cf8bdd" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\safari\unityengine.ui.dll" HashGuid="7e441b3d-f42f-e6d4-8d46-963f8f8f9433" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\players\windowsphone81\arm\master\unityenginedelegates.winmd" HashGuid="a758cda9-20bf-3e09-bb41-ffa443958e6c" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\players\windowsphone81\arm\master\unityengineproxy.dll" HashGuid="92a70c00-a30d-4bf8-1ff3-e40d6c332c05" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\players\windowsphone81\arm\master\unityplayer.winmd" HashGuid="3c25c20f-85e3-30bb-aafb-ba1498c439ca" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\players\windowsphone81\arm\master\winrtbridge.winmd" HashGuid="eb81e271-afa9-2727-2060-6e1157893dbe" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\safari\winrtlegacy.dll" HashGuid="844944be-ab5d-831f-f455-5e409fdfe575" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

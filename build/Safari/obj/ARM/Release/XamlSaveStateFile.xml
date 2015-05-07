@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\skordiaczynski\documents\safari\build\safari\obj\arm\release\intermediatexaml\template.exe" HashGuid="fabe74c5-49ab-7e9f-b73a-fb9c856e7a2e" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\safari\assembly-csharp.dll" HashGuid="5f769cd4-6f9d-5593-3913-366c58721b9e" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\players\windowsphone81\arm\release\bridgeinterface.winmd" HashGuid="01bad8a4-31ce-dbfe-648d-64f2685f70a1" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\safari\unityengine.dll" HashGuid="5ac16355-8fa0-48e9-5bf5-c6e396cf8bdd" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\safari\unityengine.ui.dll" HashGuid="7e441b3d-f42f-e6d4-8d46-963f8f8f9433" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\players\windowsphone81\arm\release\unityenginedelegates.winmd" HashGuid="a758cda9-20bf-3e09-bb41-ffa443958e6c" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\players\windowsphone81\arm\release\unityengineproxy.dll" HashGuid="92a70c00-a30d-4bf8-1ff3-e40d6c332c05" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\players\windowsphone81\arm\release\unityplayer.winmd" HashGuid="388f3b34-cf39-8f4a-1174-94756ef30022" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\players\windowsphone81\arm\release\winrtbridge.winmd" HashGuid="921c18fc-47ed-24ac-8a23-e678e9d2cf9d" />
+    <ReferenceAssembly PathName="c:\users\skordiaczynski\documents\safari\build\safari\winrtlegacy.dll" HashGuid="844944be-ab5d-831f-f455-5e409fdfe575" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

@@ -1,0 +1,1 @@
+C:\Users\skordiaczynski\Documents\Safari\build\Safari\Safari.csproj;arm
